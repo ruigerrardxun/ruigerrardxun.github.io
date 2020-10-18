@@ -1,0 +1,17 @@
+body{
+	background-color:turquoise;
+}
+h1{
+	font-size: 60px;
+}
+body{
+	width:1200px;
+	margin-left:auto;
+	margin-right: auto; 
+}
+#subtitle{
+	font-size: 35px;
+}
+.picture{
+	width: 600px;
+}
